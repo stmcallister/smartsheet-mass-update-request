@@ -1,0 +1,14 @@
+{
+  "name": "smartsheet-mass-update-request",
+  "version": "1.0.0",
+  "description": "",
+  "main": "smartsheet-mass-update-request.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "smartsheet": "^1.3.0"
+  }
+}
